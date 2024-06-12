@@ -1,3 +1,4 @@
+<!--npm install chart.js  -->
 <template>
   <div class="chart-container">
     <canvas ref="MyChart" />
